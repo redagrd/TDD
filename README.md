@@ -4,8 +4,6 @@
 
 Exercices pour apprendre les bases des test unitaire en python réalisés durant une formation data chez M2I
 
-# Simple Projet Python : Découverte Data Engineering
-
 ## Description
 
 Ce projet a pour but de découvrir le Data Engineering. Il s'agit de mettre en place un pipeline de traitement de donées.
